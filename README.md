@@ -1,0 +1,2 @@
+# MicrosoftOrleansBasics
+Minimal Orleans application
