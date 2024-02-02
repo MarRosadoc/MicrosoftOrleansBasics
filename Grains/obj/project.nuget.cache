@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/WJCWSUD9RRkg1rGzUVoLsTrZuCuVZDS/MjaC+1w+LFOCCh4nl8P/NTfk64uzypSk60otjh32tX8KodhOMw8og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mar Rosado\\Downloads\\URL\\2024\\2024 PRIMER CICLO\\VIRTUALIZACION\\MicrosoftOrleansHW\\Grains\\Grains.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mar Rosado\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Mar Rosado\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
